@@ -5,20 +5,22 @@ This is demo application for showing the list of latest movies using MVVM archit
 List of latest release movies</br>
 Sorting oif movie list by popularity and rating</br>
 Details of particular movie</br>
-Like/Unlike movie as favourite
+Like/Unlike movie as favourite</br>
 
-# App Specifications : 
+<img src="https://user-images.githubusercontent.com/11073070/61305532-9a184f80-a808-11e9-81d6-458281f8522c.gif" height="450" width="280"/></br>
+
+# App Specifications :
 
 Android Studio : 3.4.1</br>
 Language : Kotlin version 1.3.21</br>
 JDK 1.8</br>
-MVVM Design Pattern</br>
+**MVVM** Design Pattern</br>
 Dagger 2 for dependency injection </br>
-Retrofit for API integration</br>
-Okhhtp3 for implementing interceptor, logging</br>
-Mockito-Kotlin  for unit testing</br>
-Glide  for image loading</br>
-Android Architecture Components (LiveData, Lifecycle, ViewModel )</br>
-Room Persistence Library for Database</br>
-RxJava2 Observable pattern.</br>
-Fabric Crashanalytics for logging 
+**Retrofit** for API integration</br>
+**Okhhtp3** for implementing interceptor, logging</br>
+**Mockito-Kotlin**  for unit testing</br>
+**Glide**  for image loading</br>
+Android Architecture Components ** (LiveData, Lifecycle, ViewModel )</br>
+**Room** Persistence Library for Database</br>
+**RxJava2** Observable pattern.</br>
+**Fabric** Crashanalytics for logging 
