@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Movie</string>
+    <string name="internet_error">No Internet connected, Please check your network connection.</string>
+    <string name="Release_Date">Release Date :</string>
+    <string name="Summary">Summary</string>
+     <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+    <string name="sort_by">Sort By : </string>
+    <string name="none">None</string>
+
+
+</resources>
