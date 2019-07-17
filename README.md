@@ -20,7 +20,7 @@ Dagger 2 for dependency injection </br>
 **Okhhtp3** for implementing interceptor, logging</br>
 **Mockito-Kotlin**  for unit testing</br>
 **Glide**  for image loading</br>
-Android Architecture Components ** (LiveData, Lifecycle, ViewModel )</br>
+Android Architecture Components (LiveData, Lifecycle, ViewModel )</br>
 **Room** Persistence Library for Database</br>
 **RxJava2** Observable pattern.</br>
 **Fabric** Crashanalytics for logging 
