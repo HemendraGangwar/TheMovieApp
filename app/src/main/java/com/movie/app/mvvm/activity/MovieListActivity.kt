@@ -48,7 +48,6 @@ class MovieListActivity : AppCompatActivity(), MovieViewHolder.Delegate {
         binding.lifecycleOwner = this
         //initialize ui for details screen
         init()
-        init()
     }
 
     override fun onStart() {
